@@ -19,5 +19,6 @@ Ejemplo
 8-Ubicado el archivo escribir el siguiente codigo "Morse.java" y apretar enter
 7-Ya compilado escribir "java Morse" para ejecutar con enter y listo ya puede trabajar con el
 *****USO*****
-escriba un palabra y presione enter para tranformarlo en codigo morse 
+al iniciar nos pedira que queremos hacer escribiremos el numero de la accion a realizar y ejecutaremos con ester para luego ingresar el texto
+escribiremos un palabra y presionaremos enter para tranformarlo en codigo morse 
 y viseversa escribir el codigo morse y apretar enter para ejecutar y transformarlo a palabras
