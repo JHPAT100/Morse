@@ -4,7 +4,7 @@ codigo que tradusca codigo morse a texto y texto a codigo morse
 ****Todo lo escrito entre comillas en el codigo al escribirlas de nuevo no las debe llavar****
 Ejemplo 
 "dir" seria igual a dir
-***El archivo zip deve descomprimirse antes de todo***
+---El archivo zip deve descomprimirse antes de todo---
 ---Desde la ID de netbeans---
 1-descargar el programa
 2-Arrastar el archivo Morse-master asta el acceso del neatbeans para que je abra el programa;                                           
